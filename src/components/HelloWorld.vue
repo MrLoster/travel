@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your travelWeb App 11 '
+      msg: 'Welcome to Your travelWeb App 1122 '
     }
   }
 }
